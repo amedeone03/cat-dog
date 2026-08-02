@@ -15,3 +15,5 @@ okay
 >>>>>>> 0535a02 (Okay???)
 
 DO u see my message, caro?
+
+si che lo vedo PISIcKA
