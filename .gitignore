@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Dataset
+data/raw/
+data/processed/
+
+# Trained models
+models/*.pt
+models/*.pth
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Operating systems
+.DS_Store
+Thumbs.db
